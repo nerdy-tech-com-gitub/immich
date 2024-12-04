@@ -75,7 +75,7 @@
     "@zoom-image/svelte": "^0.2.6",
     "dom-to-image": "^2.6.0",
     "handlebars": "^4.7.8",
-    "intl-messageformat": "^10.5.14",
+    "intl-messageformat": "^10.7.6",
     "justified-layout": "^4.1.0",
     "lodash-es": "^4.17.21",
     "luxon": "^3.4.4",
