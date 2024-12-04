@@ -16,7 +16,7 @@
     "write-heading-ids": "docusaurus write-heading-ids"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.2.1",
+    "@docusaurus/core": "^3.6.1",
     "@docusaurus/preset-classic": "^3.2.1",
     "@mdi/js": "^7.3.67",
     "@mdi/react": "^1.6.1",
