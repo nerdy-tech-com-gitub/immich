@@ -65,7 +65,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@formatjs/icu-messageformat-parser": "^2.7.8",
+    "@formatjs/icu-messageformat-parser": "^2.9.4",
     "@immich/sdk": "file:../open-api/typescript-sdk",
     "@mapbox/mapbox-gl-rtl-text": "0.2.3",
     "@mdi/js": "^7.4.47",
