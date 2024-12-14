@@ -23,7 +23,7 @@
     "@eslint/js": "^9.8.0",
     "@immich/cli": "file:../cli",
     "@immich/sdk": "file:../open-api/typescript-sdk",
-    "@playwright/test": "^1.44.1",
+    "@playwright/test": "^1.49.0",
     "@types/luxon": "^3.4.2",
     "@types/node": "^22.9.0",
     "@types/oidc-provider": "^8.5.1",
