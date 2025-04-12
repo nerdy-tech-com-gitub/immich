@@ -31,7 +31,7 @@
     "@types/pngjs": "^6.0.4",
     "@types/supertest": "^6.0.2",
     "@typescript-eslint/eslint-plugin": "^8.15.0",
-    "@typescript-eslint/parser": "^8.15.0",
+    "@typescript-eslint/parser": "^8.27.0",
     "@vitest/coverage-v8": "^2.0.5",
     "eslint": "^9.14.0",
     "eslint-config-prettier": "^9.1.0",
