@@ -42,7 +42,7 @@
     "jose": "^5.6.3",
     "luxon": "^3.4.4",
     "oidc-provider": "^8.5.1",
-    "pg": "^8.11.3",
+    "pg": "^8.16.3",
     "pngjs": "^7.0.0",
     "prettier": "^3.2.5",
     "prettier-plugin-organize-imports": "^4.0.0",
