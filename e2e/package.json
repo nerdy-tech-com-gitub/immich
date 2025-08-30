@@ -20,7 +20,7 @@
   "license": "GNU Affero General Public License version 3",
   "devDependencies": {
     "@eslint/eslintrc": "^3.1.0",
-    "@eslint/js": "^9.8.0",
+    "@eslint/js": "^9.33.0",
     "@immich/cli": "file:../cli",
     "@immich/sdk": "file:../open-api/typescript-sdk",
     "@playwright/test": "^1.44.1",
